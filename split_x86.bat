@@ -1,0 +1,1 @@
+"tool/romwak_x86.exe" /b "combined.bin" "split2.bin" "split1.bin"
